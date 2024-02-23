@@ -1,9 +1,10 @@
 {
   "layout": "detalhe técnico",
   "tags": [
-    null
+    "web"
   ],
   "section": "rede",
+  "eyebrow": "Adaptar la Web д",
   "resources": [
     {
       "title": "web.dev",
